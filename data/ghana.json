@@ -1,0 +1,519 @@
+{
+  "afronatrix_anoscopus": [
+    "assets/GhanaAltPhotos/Afronatrix_anoscopus_alt1.jpg",
+    "assets/GhanaAltPhotos/Afronatrix_anoscopus_alt2.jpg",
+    "assets/GhanaAltPhotos/Afronatrix_anoscopus_alt3.jpg"
+  ],
+  "afrotyphlops_liberiensis": [
+    "assets/GhanaAltPhotos/Afrotyphlops_liberiensis_alt1.jpg",
+    "assets/GhanaAltPhotos/Afrotyphlops_liberiensis_alt2.jpg"
+  ],
+  "afrotyphlops_lineolatus": [
+    "assets/GhanaAltPhotos/Afrotyphlops_lineolatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Afrotyphlops_lineolatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Afrotyphlops_lineolatus_alt3.jpg"
+  ],
+  "afrotyphlops_punctatus": [
+    "assets/GhanaAltPhotos/Afrotyphlops_punctatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Afrotyphlops_punctatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Afrotyphlops_punctatus_alt3.jpg"
+  ],
+  "amblyodipsas_unicolor": [
+    "assets/GhanaAltPhotos/Amblyodipsas_unicolor_alt1.jpg",
+    "assets/GhanaAltPhotos/Amblyodipsas_unicolor_alt2.jpg",
+    "assets/GhanaAltPhotos/Amblyodipsas_unicolor_alt3.jpg"
+  ],
+  "aparallactus_lunulatus_lunulatus": [
+    "assets/GhanaAltPhotos/Aparallactus _lunulatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Aparallactus _lunulatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Aparallactus _lunulatus_alt3.jpg"
+  ],
+  "aparallactus_lunulatus_nigrocollaris": [
+    "assets/GhanaAltPhotos/Aparallactus_lunulatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Aparallactus_lunulatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Aparallactus_lunulatus_alt3.jpg"
+  ],
+  "aparallactus_modestus": [
+    "assets/GhanaAltPhotos/Aparallactus_modestus_alt1.jpg",
+    "assets/GhanaAltPhotos/Aparallactus_modestus_alt2.jpg",
+    "assets/GhanaAltPhotos/Aparallactus_modestus_alt3.jpg"
+  ],
+  "atheris_chlorechis": [
+    "assets/GhanaAltPhotos/Atheris_chlorechis_alt1.jpg",
+    "assets/GhanaAltPhotos/Atheris_chlorechis_alt2.jpg",
+    "assets/GhanaAltPhotos/Atheris_chlorechis_alt3.jpg"
+  ],
+  "atheris_squamigera": [
+    "assets/GhanaAltPhotos/Atheris_squamigera_alt1.jpg",
+    "assets/GhanaAltPhotos/Atheris_squamigera_alt2.jpg",
+    "assets/GhanaAltPhotos/Atheris_squamigera_alt3.jpg"
+  ],
+  "atractaspis_aterrima": [
+    "assets/GhanaAltPhotos/Atractaspis_aterrima_alt1.jpg",
+    "assets/GhanaAltPhotos/Atractaspis_aterrima_alt2.jpg",
+    "assets/GhanaAltPhotos/Atractaspis_aterrima_alt3.jpg"
+  ],
+  "atractaspis_corpulenta": [
+    "assets/GhanaAltPhotos/Atractaspis_corpulenta_alt1.jpg",
+    "assets/GhanaAltPhotos/Atractaspis_corpulenta_alt2.jpg",
+    "assets/GhanaAltPhotos/Atractaspis_corpulenta_alt3.jpg"
+  ],
+  "atractaspis_dahomeyensis": [
+    "assets/GhanaAltPhotos/Atractaspis_dahomeyensis_alt1.jpg"
+  ],
+  "atractaspis_irregularis": [
+    "assets/GhanaAltPhotos/Atractaspis_irregularis_alt1.jpg",
+    "assets/GhanaAltPhotos/Atractaspis_irregularis_alt2.jpg",
+    "assets/GhanaAltPhotos/Atractaspis_irregularis_alt3.jpg"
+  ],
+  "bamanophis_dorri": [
+    "assets/GhanaAltPhotos/Bamanophis_dorri_alt1.jpg",
+    "assets/GhanaAltPhotos/Bamanophis_dorri_alt2.jpg",
+    "assets/GhanaAltPhotos/Bamanophis_dorri_alt3.jpg"
+  ],
+  "bitis_arietans": [
+    "assets/GhanaAltPhotos/Bitis_arietans_alt1.jpg",
+    "assets/GhanaAltPhotos/Bitis_arietans_alt2.jpg",
+    "assets/GhanaAltPhotos/Bitis_arietans_alt3.jpg"
+  ],
+  "bitis_nasicornis": [
+    "assets/GhanaAltPhotos/Bitis_rhinoceros_alt1.jpg",
+    "assets/GhanaAltPhotos/Bitis_rhinoceros_alt2.jpg",
+    "assets/GhanaAltPhotos/Bitis_rhinoceros_alt3.jpg"
+  ],
+  "bitis_rhinoceros": [
+    "assets/GhanaAltPhotos/Bitis_rhinoceros_alt1.jpg",
+    "assets/GhanaAltPhotos/Bitis_rhinoceros_alt2.jpg",
+    "assets/GhanaAltPhotos/Bitis_rhinoceros_alt3.jpg"
+  ],
+  "boaedon_fuliginosus": [
+    "assets/GhanaAltPhotos/Boaedon_fuliginosus_alt1.jpg",
+    "assets/GhanaAltPhotos/Boaedon_fuliginosus_alt2.jpg",
+    "assets/GhanaAltPhotos/Boaedon_fuliginosus_alt3.jpg"
+  ],
+  "boaedon_lineatus": [
+    "assets/GhanaAltPhotos/Boaedon_lineatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Boaedon_lineatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Boaedon_lineatus_alt3.jpg"
+  ],
+  "boaedon_olivaceus": [
+    "assets/GhanaAltPhotos/Boaedon_olivaceus_alt1.jpg",
+    "assets/GhanaAltPhotos/Boaedon_olivaceus_alt2.jpg",
+    "assets/GhanaAltPhotos/Boaedon_olivaceus_alt3.jpg"
+  ],
+  "boaedon_virgatus": [
+    "assets/GhanaAltPhotos/Boaedon_virgatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Boaedon_virgatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Boaedon_virgatus_alt3.jpg"
+  ],
+  "bothrophthalmus_lineatus": [
+    "assets/GhanaAltPhotos/Bothrophthalmus_lineatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Bothrophthalmus_lineatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Bothrophthalmus_lineatus_alt3.jpg"
+  ],
+  "calabaria_reinhardtii": [
+    "assets/GhanaAltPhotos/Calabaria_reinhardtii_alt1.jpg",
+    "assets/GhanaAltPhotos/Calabaria_reinhardtii_alt2.jpg",
+    "assets/GhanaAltPhotos/Calabaria_reinhardtii_alt3.jpg"
+  ],
+  "causus_lichtensteinii": [
+    "assets/GhanaAltPhotos/Causus_lichtensteinii_alt1.jpg",
+    "assets/GhanaAltPhotos/Causus_lichtensteinii_alt2.jpg",
+    "assets/GhanaAltPhotos/Causus_lichtensteinii_alt3.jpg"
+  ],
+  "causus_maculatus": [
+    "assets/GhanaAltPhotos/Causus_maculatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Causus_maculatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Causus_maculatus_alt3.jpg"
+  ],
+  "chamaelycus_fasciatus": [
+    "assets/GhanaAltPhotos/Chamaelycus_fasciatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Chamaelycus_fasciatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Chamaelycus_fasciatus_alt3.jpg"
+  ],
+  "crotaphopeltis_hippocrepis": [
+    "assets/GhanaAltPhotos/Crotaphopeltis_hippocrepis_alt1.jpg",
+    "assets/GhanaAltPhotos/Crotaphopeltis_hippocrepis_alt2.jpg"
+  ],
+  "crotaphopeltis_hotamboeia": [
+    "assets/GhanaAltPhotos/Crotaphopeltis_hotamboeia_alt1.jpg",
+    "assets/GhanaAltPhotos/Crotaphopeltis_hotamboeia_alt2.jpg",
+    "assets/GhanaAltPhotos/Crotaphopeltis_hotamboeia_alt3.jpg"
+  ],
+  "dasypeltis_confusa": [
+    "assets/GhanaAltPhotos/Dasypeltis_confusa_alt1.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_confusa_alt2.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_confusa_alt3.jpg"
+  ],
+  "dasypeltis_fasciata": [
+    "assets/GhanaAltPhotos/Dasypeltis_fasciata_alt1.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_fasciata_alt2.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_fasciata_alt3.jpg"
+  ],
+  "dasypeltis_gansi": [
+    "assets/GhanaAltPhotos/Dasypeltis_gansi_alt1.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_gansi_alt2.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_gansi_alt3.jpg"
+  ],
+  "dasypeltis_parascabra": [
+    "assets/GhanaAltPhotos/Dasypeltis_parascabra_alt1.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_parascabra_alt2.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_parascabra_alt3.jpg"
+  ],
+  "dasypeltis_scabra": [
+    "assets/GhanaAltPhotos/Dasypeltis_scabra_alt1.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_scabra_alt2.jpg",
+    "assets/GhanaAltPhotos/Dasypeltis_scabra_alt3.jpg"
+  ],
+  "dendroaspis_jamesoni": [
+    "assets/GhanaAltPhotos/Dendroaspis_jamesoni_alt1.jpg",
+    "assets/GhanaAltPhotos/Dendroaspis_jamesoni_alt2.jpg",
+    "assets/GhanaAltPhotos/Dendroaspis_jamesoni_alt3.jpg"
+  ],
+  "dendroaspis_viridis": [
+    "assets/GhanaAltPhotos/Dendroaspis_viridis_alt1.jpg",
+    "assets/GhanaAltPhotos/Dendroaspis_viridis_alt2.jpg",
+    "assets/GhanaAltPhotos/Dendroaspis_viridis_alt3.jpg"
+  ],
+  "dipsadoboa_brevirostris": [
+    "assets/GhanaAltPhotos/Dipsadoboa_brevirostris_alt1.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_brevirostris_alt2.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_brevirostris_alt3.jpg"
+  ],
+  "dipsadoboa_underwoodi": [
+    "assets/GhanaAltPhotos/Dipsadoboa_underwoodi_alt1.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_underwoodi_alt2.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_underwoodi_alt3.jpg"
+  ],
+  "dipsadoboa_unicolor": [
+    "assets/GhanaAltPhotos/Dipsadoboa_unicolor_alt1.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_unicolor_alt2.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_unicolor_alt3.jpg"
+  ],
+  "dipsadoboa_viridis": [
+    "assets/GhanaAltPhotos/Dipsadoboa_viridis_alt1.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_viridis_alt2.jpg",
+    "assets/GhanaAltPhotos/Dipsadoboa_viridis_alt3.jpg"
+  ],
+  "dispholidus_typus": [
+    "assets/GhanaAltPhotos/Dispholidus_typus_alt1.jpg",
+    "assets/GhanaAltPhotos/Dispholidus_typus_alt2.jpg",
+    "assets/GhanaAltPhotos/Dispholidus_typus_alt3.jpg"
+  ],
+  "dispholidus_typus_typus": [
+    "assets/GhanaAltPhotos/Dispholidus_typus_alt1.jpg",
+    "assets/GhanaAltPhotos/Dispholidus_typus_alt2.jpg",
+    "assets/GhanaAltPhotos/Dispholidus_typus_alt3.jpg"
+  ],
+  "echis_ocellatus": [
+    "assets/GhanaAltPhotos/Echis_ocellatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Echis_ocellatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Echis_ocellatus_alt3.jpg"
+  ],
+  "elapsoidea_semiannulata": [
+    "assets/GhanaAltPhotos/Elapsoidea_semiannulata_alt1.jpg",
+    "assets/GhanaAltPhotos/Elapsoidea_semiannulata_alt2.jpg",
+    "assets/GhanaAltPhotos/Elapsoidea_semiannulata_alt3.jpg"
+  ],
+  "eryx_muelleri": [
+    "assets/GhanaAltPhotos/Eryx_muelleri_alt1.jpg",
+    "assets/GhanaAltPhotos/Eryx_muelleri_alt2.jpg",
+    "assets/GhanaAltPhotos/Eryx_muelleri_alt3.jpg"
+  ],
+  "gonionotophis_klingi": [
+    "assets/GhanaAltPhotos/Gonionotophis_klingi_alt1.jpg",
+    "assets/GhanaAltPhotos/Gonionotophis_klingi_alt2.jpg",
+    "assets/GhanaAltPhotos/Gonionotophis_klingi_alt3.jpg"
+  ],
+  "grayia_smithii": [
+    "assets/GhanaAltPhotos/Grayia_smithii_alt1.jpg",
+    "assets/GhanaAltPhotos/Grayia_smithii_alt2.jpg",
+    "assets/GhanaAltPhotos/Grayia_smithii_alt3.jpg"
+  ],
+  "hapsidophrys_lineata": [
+    "assets/GhanaAltPhotos/Hapsidophrys_lineata_alt1.jpg",
+    "assets/GhanaAltPhotos/Hapsidophrys_lineata_alt2.jpg",
+    "assets/GhanaAltPhotos/Hapsidophrys_lineata_alt3.jpg"
+  ],
+  "hapsidophrys_smaragdina": [
+    "assets/GhanaAltPhotos/Hapsidophrys_smaragdina_alt1.jpg",
+    "assets/GhanaAltPhotos/Hapsidophrys_smaragdina_alt2.jpg",
+    "assets/GhanaAltPhotos/Hapsidophrys_smaragdina_alt3.jpg"
+  ],
+  "hormonotus_modestus": [
+    "assets/GhanaAltPhotos/Hormonotus_modestus_alt1.jpg",
+    "assets/GhanaAltPhotos/Hormonotus_modestus_alt2.jpg",
+    "assets/GhanaAltPhotos/Hormonotus_modestus_alt3.jpg"
+  ],
+  "kladirostratus_acutus": [
+    "assets/GhanaAltPhotos/Kladirostratus_acutus_alt1.jpg",
+    "assets/GhanaAltPhotos/Kladirostratus_acutus_alt2.jpg",
+    "assets/GhanaAltPhotos/Kladirostratus_acutus_alt3.jpg"
+  ],
+  "limaformosa_crossi": [
+    "assets/GhanaAltPhotos/Limaformosa_crossi_alt1.jpg",
+    "assets/GhanaAltPhotos/Limaformosa_crossi_alt2.jpg",
+    "assets/GhanaAltPhotos/Limaformosa_crossi_alt3.jpg"
+  ],
+  "limaformosa_guirali": [
+    "assets/GhanaAltPhotos/Limaformosa_guirali_alt1.jpg",
+    "assets/GhanaAltPhotos/Limaformosa_guirali_alt2.jpg"
+  ],
+  "lycophidion_irroratum": [
+    "assets/GhanaAltPhotos/Lycophidion_irroratum_alt1.jpg",
+    "assets/GhanaAltPhotos/Lycophidion_irroratum_alt2.jpg",
+    "assets/GhanaAltPhotos/Lycophidion_irroratum_alt3.jpg"
+  ],
+  "lycophidion_laterale": [
+    "assets/GhanaAltPhotos/Lycophidion_laterale_alt1.jpg",
+    "assets/GhanaAltPhotos/Lycophidion_laterale_alt2.jpg",
+    "assets/GhanaAltPhotos/Lycophidion_laterale_alt3.jpg"
+  ],
+  "lycophidion_nigromaculatum": [
+    "assets/GhanaAltPhotos/Lycophidion_nigromaculatum_alt1.jpg"
+  ],
+  "lycophidion_semicinctum": [
+    "assets/GhanaAltPhotos/Lycophidion_semicinctum_alt1.jpg",
+    "assets/GhanaAltPhotos/Lycophidion_semicinctum_alt2.jpg",
+    "assets/GhanaAltPhotos/Lycophidion_semicinctum_alt3.jpg"
+  ],
+  "malpolon_moilensis": [
+    "assets/GhanaAltPhotos/Malpolon_moilensis_alt1.jpg",
+    "assets/GhanaAltPhotos/Malpolon_moilensis_alt2.jpg",
+    "assets/GhanaAltPhotos/Malpolon_moilensis_alt3.jpg"
+  ],
+  "mehelya_poensis": [
+    "assets/GhanaAltPhotos/Mehelya_poensis_alt1.jpg",
+    "assets/GhanaAltPhotos/Mehelya_poensis_alt2.jpg",
+    "assets/GhanaAltPhotos/Mehelya_poensis_alt3.jpg"
+  ],
+  "mehelya_stenophthalmus": [
+    "assets/GhanaAltPhotos/Mehelya_stenophthalmus_alt1.jpg",
+    "assets/GhanaAltPhotos/Mehelya_stenophthalmus_alt2.jpg",
+    "assets/GhanaAltPhotos/Mehelya_stenophthalmus_alt3.jpg"
+  ],
+  "meizodon_coronatus": [
+    "assets/GhanaAltPhotos/Meizodon_coronatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Meizodon_coronatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Meizodon_coronatus_alt3.jpg"
+  ],
+  "meizodon_regularis": [
+    "assets/GhanaAltPhotos/Meizodon_regularis_alt1.jpg",
+    "assets/GhanaAltPhotos/Meizodon_regularis_alt2.jpg",
+    "assets/GhanaAltPhotos/Meizodon_regularis_alt3.jpg"
+  ],
+  "myriopholis_boueti": [
+    "assets/GhanaAltPhotos/Myriopholis_boueti_alt1.jpg"
+  ],
+  "myriopholis_macrorhyncha": [
+    "assets/GhanaAltPhotos/Myriopholis_macrorhyncha_alt1.jpg",
+    "assets/GhanaAltPhotos/Myriopholis_macrorhyncha_alt2.jpg",
+    "assets/GhanaAltPhotos/Myriopholis_macrorhyncha_alt3.jpg"
+  ],
+  "myriopholis_narirostris": [
+    "assets/GhanaAltPhotos/Myriopholis_narirostris_alt1.jpg",
+    "assets/GhanaAltPhotos/Myriopholis_narirostris_alt2.jpg",
+    "assets/GhanaAltPhotos/Myriopholis_narirostris_alt3.jpg"
+  ],
+  "naja_guineensis": [
+    "assets/GhanaAltPhotos/Naja_guineensis_alt1.jpg",
+    "assets/GhanaAltPhotos/Naja_guineensis_alt2.jpg",
+    "assets/GhanaAltPhotos/Naja_guineensis_alt3.jpg"
+  ],
+  "naja_katiensis": [
+    "assets/GhanaAltPhotos/Naja_katiensis_alt1.jpg",
+    "assets/GhanaAltPhotos/Naja_katiensis_alt2.jpg",
+    "assets/GhanaAltPhotos/Naja_katiensis_alt3.jpg"
+  ],
+  "naja_nigricollis": [
+    "assets/GhanaAltPhotos/Naja_nigricollis_alt1.jpg",
+    "assets/GhanaAltPhotos/Naja_nigricollis_alt2.jpg",
+    "assets/GhanaAltPhotos/Naja_nigricollis_alt3.jpg"
+  ],
+  "naja_savannula": [
+    "assets/GhanaAltPhotos/Naja_savannula_alt1.jpg",
+    "assets/GhanaAltPhotos/Naja_savannula_alt2.jpg",
+    "assets/GhanaAltPhotos/Naja_savannula_alt3.jpg"
+  ],
+  "naja_senegalensis": [
+    "assets/GhanaAltPhotos/Naja_senegalensis_alt1.jpg",
+    "assets/GhanaAltPhotos/Naja_senegalensis_alt2.jpg",
+    "assets/GhanaAltPhotos/Naja_senegalensis_alt3.jpg"
+  ],
+  "natriciteres_fuliginoides": [
+    "assets/GhanaAltPhotos/Natriciteres_fuliginoides_alt1.jpg",
+    "assets/GhanaAltPhotos/Natriciteres_fuliginoides_alt2.jpg",
+    "assets/GhanaAltPhotos/Natriciteres_fuliginoides_alt3.jpg"
+  ],
+  "natriciteres_olivacea": [
+    "assets/GhanaAltPhotos/Natriciteres_olivacea_alt1.jpg",
+    "assets/GhanaAltPhotos/Natriciteres_olivacea_alt2.jpg",
+    "assets/GhanaAltPhotos/Natriciteres_olivacea_alt3.jpg"
+  ],
+  "natriciteres_variegata": [
+    "assets/GhanaAltPhotos/Natriciteres_variegata_alt1.jpg",
+    "assets/GhanaAltPhotos/Natriciteres_variegata_alt2.jpg",
+    "assets/GhanaAltPhotos/Natriciteres_variegata_alt3.jpg"
+  ],
+  "philothamnus_carinatus": [
+    "assets/GhanaAltPhotos/Philothamnus_carinatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_carinatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_carinatus_alt3.jpg"
+  ],
+  "philothamnus_heterodermus": [
+    "assets/GhanaAltPhotos/Philothamnus_heterodermus_alt1.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_heterodermus_alt2.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_heterodermus_alt3.jpg"
+  ],
+  "philothamnus_heterolepidotus": [
+    "assets/GhanaAltPhotos/Philothamnus_heterolepidotus_alt1.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_heterolepidotus_alt2.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_heterolepidotus_alt3.jpg"
+  ],
+  "philothamnus_irregularis": [
+    "assets/GhanaAltPhotos/Philothamnus_irregularis_alt1.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_irregularis_alt2.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_irregularis_alt3.jpg"
+  ],
+  "philothamnus_nitidus": [
+    "assets/GhanaAltPhotos/Philothamnus_nitidus_alt1.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_nitidus_alt2.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_nitidus_alt3.jpg"
+  ],
+  "philothamnus_nitidus_nitidus": [
+    "assets/GhanaAltPhotos/Philothamnus_nitidus_alt1.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_nitidus_alt2.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_nitidus_alt3.jpg"
+  ],
+  "philothamnus_semivariegatus": [
+    "assets/GhanaAltPhotos/Philothamnus_semivariegatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_semivariegatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Philothamnus_semivariegatus_alt3.jpg"
+  ],
+  "polemon_acanthias": [
+    "assets/GhanaAltPhotos/Polemon_acanthias_alt1.jpg",
+    "assets/GhanaAltPhotos/Polemon_acanthias_alt2.jpg",
+    "assets/GhanaAltPhotos/Polemon_acanthias_alt3.jpg"
+  ],
+  "prosymna_collaris": [
+    "assets/GhanaAltPhotos/Prosymna_collaris_alt1.jpg",
+    "assets/GhanaAltPhotos/Prosymna_collaris_alt2.jpg"
+  ],
+  "prosymna_meleagris": [
+    "assets/GhanaAltPhotos/Prosymna_meleagris_alt1.jpg",
+    "assets/GhanaAltPhotos/Prosymna_meleagris_alt2.jpg",
+    "assets/GhanaAltPhotos/Prosymna_meleagris_alt3.jpg"
+  ],
+  "psammophis_afroccidentalis": [
+    "assets/GhanaAltPhotos/Psammophis_afroccidentalis_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_afroccidentalis_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_afroccidentalis_alt3.jpg"
+  ],
+  "psammophis_elegans": [
+    "assets/GhanaAltPhotos/Psammophis_elegans_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_elegans_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_elegans_alt3.jpg"
+  ],
+  "psammophis_lineatus": [
+    "assets/GhanaAltPhotos/Psammophis_lineatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_lineatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_lineatus_alt3.jpg"
+  ],
+  "psammophis_mossambicus": [
+    "assets/GhanaAltPhotos/Psammophis_mossambicus_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_mossambicus_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_mossambicus_alt3.jpg"
+  ],
+  "psammophis_mossambicus_mossambicus": [
+    "assets/GhanaAltPhotos/Psammophis_mossambicus_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_mossambicus_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_mossambicus_alt3.jpg"
+  ],
+  "psammophis_phillipsii": [
+    "assets/GhanaAltPhotos/Psammophis_phillipsii_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_phillipsii_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_phillipsii_alt3.jpg"
+  ],
+  "psammophis_praeornatus": [
+    "assets/GhanaAltPhotos/Psammophis_praeornatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_praeornatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_praeornatus_alt3.jpg"
+  ],
+  "psammophis_rukwae": [
+    "assets/GhanaAltPhotos/Psammophis_rukwae_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_rukwae_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_rukwae_alt3.jpg"
+  ],
+  "psammophis_sudanensis": [
+    "assets/GhanaAltPhotos/Psammophis_sudanensis_alt1.jpg",
+    "assets/GhanaAltPhotos/Psammophis_sudanensis_alt2.jpg",
+    "assets/GhanaAltPhotos/Psammophis_sudanensis_alt3.jpg"
+  ],
+  "pseudohaje_goldii": [
+    "assets/GhanaAltPhotos/Pseudohaje_goldii_alt1.jpg",
+    "assets/GhanaAltPhotos/Pseudohaje_goldii_alt2.jpg",
+    "assets/GhanaAltPhotos/Pseudohaje_goldii_alt3.jpg"
+  ],
+  "pseudohaje_nigra": [
+    "assets/GhanaAltPhotos/Pseudohaje_nigra_alt1.jpg",
+    "assets/GhanaAltPhotos/Pseudohaje_nigra_alt2.jpg",
+    "assets/GhanaAltPhotos/Pseudohaje_nigra_alt3.jpg"
+  ],
+  "python_regius": [
+    "assets/GhanaAltPhotos/Python_regius_alt1.jpg",
+    "assets/GhanaAltPhotos/Python_regius_alt2.jpg",
+    "assets/GhanaAltPhotos/Python_regius_alt3.jpg"
+  ],
+    "python_sebae": [
+    "assets/GhanaAltPhotos/Python_sebae_alt1.jpg",
+    "assets/GhanaAltPhotos/Python_sebae_alt2.jpg",
+    "assets/GhanaAltPhotos/Python_sebae_alt3.jpg"
+  ],
+  "rhamnophis_aethiopissa": [
+    "assets/GhanaAltPhotos/Rhamnophis_aethiopissa_alt1.jpg",
+    "assets/GhanaAltPhotos/Rhamnophis_aethiopissa_alt2.jpg",
+    "assets/GhanaAltPhotos/Rhamnophis_aethiopissa_alt3.jpg"
+  ],
+  "rhamphiophis_oxyrhynchus": [
+    "assets/GhanaAltPhotos/Rhamphiophis_oxyrhynchus_alt1.jpg",
+    "assets/GhanaAltPhotos/Rhamphiophis_oxyrhynchus_alt2.jpg",
+    "assets/GhanaAltPhotos/Rhamphiophis_oxyrhynchus_alt3.jpg"
+  ],
+  "scaphiophis_albopunctatus": [
+    "assets/GhanaAltPhotos/Scaphiophis_albopunctatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Scaphiophis_albopunctatus_alt3.jpg"
+  ],
+  "telescopus_variegatus": [
+    "assets/GhanaAltPhotos/Telescopus_variegatus_alt1.jpg",
+    "assets/GhanaAltPhotos/Telescopus_variegatus_alt2.jpg",
+    "assets/GhanaAltPhotos/Telescopus_variegatus_alt3.jpg"
+  ],
+  "thelotornis_kirtlandii": [
+    "assets/GhanaAltPhotos/Thelotornis_kirtlandii_alt1.jpg",
+    "assets/GhanaAltPhotos/Thelotornis_kirtlandii_alt2.jpg",
+    "assets/GhanaAltPhotos/Thelotornis_kirtlandii_alt3.jpg"
+  ],
+  "thrasops_occidentalis": [
+    "assets/GhanaAltPhotos/Thrasops_occidentalis_alt1.jpg",
+    "assets/GhanaAltPhotos/Thrasops_occidentalis_alt2.jpg",
+    "assets/GhanaAltPhotos/Thrasops_occidentalis_alt3.jpg"
+  ],
+  "toxicodryas_blandingii": [
+    "assets/GhanaAltPhotos/Toxicodryas_blandingii_alt1.jpg",
+    "assets/GhanaAltPhotos/Toxicodryas_blandingii_alt2.jpg",
+    "assets/GhanaAltPhotos/Toxicodryas_blandingii_alt3.jpg"
+  ],
+  "toxicodryas_pulverulenta": [
+    "assets/GhanaAltPhotos/Toxicodryas_pulverulenta_alt1.jpg",
+    "assets/GhanaAltPhotos/Toxicodryas_pulverulenta_alt2.jpg",
+    "assets/GhanaAltPhotos/Toxicodryas_pulverulenta_alt3.jpg"
+  ],
+  "tricheilostoma_bicolor": [
+    "assets/GhanaAltPhotos/Tricheilostoma_bicolor_alt1.jpg",
+    "assets/GhanaAltPhotos/Tricheilostoma_bicolor_alt2.jpg",
+    "assets/GhanaAltPhotos/Tricheilostoma_bicolor_alt3.jpg"
+  ],
+  "tricheilostoma_sundewalli": [
+    "assets/GhanaAltPhotos/Tricheilostoma_sundewalli_alt1.jpg"
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "afrotyphlops_bibronii": [
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_bibronii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_bibronii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_bibronii_alt3.jpg"
+  ],
+  "afrotyphlops_dinga": [
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_dinga_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_dinga_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_dinga_alt3.jpg"
+  ],
+  "afrotyphlops_fornasinii": [
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_fornasinii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_fornasinii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_fornasinii_alt3.jpg"
+  ],
+  "afrotyphlops_schlegelii": [
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_schlegelii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_schlegelii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Afrotyphlops_schlegelii_alt3.jpg"
+  ],
+  "alopecion_guttatum": [
+    "assets/SouthAfricaAltPhotos/Alopecion guttatum_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Alopecion guttatum_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Alopecion guttatum_alt3.jpg"
+  ],
+  "amblyodipsas_concolor": [
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_concolor_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_concolor_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_concolor_alt3.jpg"
+  ],
+  "amblyodipsas_microphthalma": [
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_microphthalma_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_microphthalma_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_microphthalma_alt3.jpg"
+  ],
+  "amblyodipsas_polylepis": [
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_polylepis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_polylepis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_polylepis_alt3.jpg"
+  ],
+  "amblyodipsas_ventrimaculata": [
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_ventrimaculata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_ventrimaculata_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Amblyodipsas_ventrimaculata_alt3.jpg"
+  ],
+  "amplorhinus_multimaculatus": [
+    "assets/SouthAfricaAltPhotos/Amplorhinus_multimaculatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Amplorhinus_multimaculatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Amplorhinus_multimaculatus_alt3.jpg"
+  ],
+  "aparallactus_capensis": [
+    "assets/SouthAfricaAltPhotos/Aparallactus_capensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Aparallactus_capensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Aparallactus_capensis_alt3.jpg"
+  ],
+  "aparallactus_lunulatus": [
+    "assets/SouthAfricaAltPhotos/Aparallactus_lunulatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Aparallactus_lunulatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Aparallactus_lunulatus_alt3.jpg"
+  ],
+  "aspidelaps_lubricus": [
+    "assets/SouthAfricaAltPhotos/Aspidelaps_lubricus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Aspidelaps_lubricus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Aspidelaps_lubricus_alt3.jpg"
+  ],
+  "aspidelaps_scutatus": [
+    "assets/SouthAfricaAltPhotos/Aspidelaps_scutatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Aspidelaps_scutatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Aspidelaps_scutatus_alt3.jpg"
+  ],
+  "atractaspis_bibronii": [
+    "assets/SouthAfricaAltPhotos/Atractaspis_bibronii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Atractaspis_bibronii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Atractaspis_bibronii_alt3.jpg"
+  ],
+  "atractaspis_duerdeni": [
+    "assets/SouthAfricaAltPhotos/Atractaspis_duerdeni_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Atractaspis_duerdeni_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Atractaspis_duerdeni_alt3.jpg"
+  ],
+  "bitis_albanica": [
+    "assets/SouthAfricaAltPhotos/Bitis_albanica_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_albanica_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_albanica_alt3.jpg"
+  ],
+  "bitis_arietans": [
+    "assets/SouthAfricaAltPhotos/Bitis_albanica_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_albanica_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_albanica_alt3.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_arietans_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_arietans_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_arietans_alt3.jpg"
+  ],
+  "bitis_armata": [
+    "assets/SouthAfricaAltPhotos/Bitis_armata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_armata_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_armata_alt3.jpg"
+  ],
+  "bitis_atropos": [
+    "assets/SouthAfricaAltPhotos/Bitis_atropos_atl1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_atropos_atl2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_atropos_atl3.jpg"
+  ],
+  "bitis_caudalis": [
+    "assets/SouthAfricaAltPhotos/Bitis_caudalis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_caudalis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_caudalis_alt3.jpg"
+  ],
+  "bitis_cornuta": [
+    "assets/SouthAfricaAltPhotos/Bitis_cornuta_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_cornuta_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_cornuta_alt3.jpg"
+  ],
+  "bitis_gabonica": [
+    "assets/SouthAfricaAltPhotos/Bitis_gabonica_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_gabonica_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_gabonica_alt3.jpg"
+  ],
+  "bitis_rubida": [
+    "assets/SouthAfricaAltPhotos/Bitis_rubida_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_rubida_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_rubida_alt3.jpg"
+  ],
+  "bitis_schneideri": [
+    "assets/SouthAfricaAltPhotos/Bitis_schneideri_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_schneideri_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_schneideri_alt3.jpg"
+  ],
+  "bitis_xeropaga": [
+    "assets/SouthAfricaAltPhotos/Bitis_xeropaga_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_xeropaga_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Bitis_xeropaga_alt3.jpg"
+  ],
+  "boaedon_capensis": [
+    "assets/SouthAfricaAltPhotos/Boaedon_capensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Boaedon_capensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Boaedon_capensis_alt3.jpg"
+  ],
+  "boaedon_fuliginosus": [
+    "assets/SouthAfricaAltPhotos/Boaedon_fuliginosus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Boaedon_fuliginosus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Boaedon_fuliginosus_alt3.jpg"
+  ],
+  "boaedon_mentalis": [
+    "assets/SouthAfricaAltPhotos/Boaedon_mentalis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Boaedon_mentalis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Boaedon_mentalis_alt3.jpg"
+  ],
+  "causus_defilippii": [
+    "assets/SouthAfricaAltPhotos/Causus_defilippii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Causus_defilippii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Causus_defilippii_alt3.jpg"
+  ],
+  "causus_rhombeatus": [
+    "assets/SouthAfricaAltPhotos/Causus_rhombeatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Causus_rhombeatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Causus_rhombeatus_alt3.jpg"
+  ],
+  "crotaphopeltis_hotamboeia": [
+    "assets/SouthAfricaAltPhotos/Crotaphopeltis_hotamboeia_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Crotaphopeltis_hotamboeia_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Crotaphopeltis_hotamboeia_alt3.jpg"
+  ],
+  "dasypeltis_inornata": [
+    "assets/SouthAfricaAltPhotos/Dasypeltis_inornata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Dasypeltis_inornata_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Dasypeltis_inornata_alt3.jpg"
+  ],
+  "dasypeltis_medici": [
+    "assets/SouthAfricaAltPhotos/Dasypeltis_medici_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Dasypeltis_medici_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Dasypeltis_medici_alt3.jpg"
+  ],
+  "dasypeltis_scabra": [
+    "assets/SouthAfricaAltPhotos/Dasypeltis_scabra_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Dasypeltis_scabra_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Dasypeltis_scabra_alt3.jpg"
+  ],
+  "dendroaspis_angusticeps": [
+    "assets/SouthAfricaAltPhotos/Dendroaspis_angusticeps_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Dendroaspis_angusticeps_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Dendroaspis_angusticeps_alt3.jpg"
+  ],
+  "dendroaspis_polylepis": [
+    "assets/SouthAfricaAltPhotos/Dendroaspis_polylepis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Dendroaspis_polylepis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Dendroaspis_polylepis_alt3.jpg"
+  ],
+  "dipsadoboa_aulica": [
+    "assets/SouthAfricaAltPhotos/Dipsadoboa_aulica_atl1.jpg",
+    "assets/SouthAfricaAltPhotos/Dipsadoboa_aulica_atl2.jpg",
+    "assets/SouthAfricaAltPhotos/Dipsadoboa_aulica_atl3.jpg"
+  ],
+  "dipsina_multimaculata": [
+    "assets/SouthAfricaAltPhotos/Dipsina_multimaculata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Dipsina_multimaculata_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Dipsina_multimaculata_alt3.jpg"
+  ],
+  "dispholidus_typus": [
+    "assets/SouthAfricaAltPhotos/Dispholidus_typus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Dispholidus_typus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Dispholidus_typus_alt3.jpg"
+  ],
+  "duberria_lutrix": [
+    "assets/SouthAfricaAltPhotos/Duberria_lutrix_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Duberria_lutrix_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Duberria_lutrix_alt3.jpg"
+  ],
+  "duberria_variegata": [
+    "assets/SouthAfricaAltPhotos/Duberria_variegata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Duberria_variegata_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Duberria_variegata_alt3.jpg"
+  ],
+  "elapsoidea_boulengeri": [
+    "assets/SouthAfricaAltPhotos/Elapsoidea_boulengeri_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Elapsoidea_boulengeri_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Elapsoidea_boulengeri_alt3.jpg"
+  ],
+  "elapsoidea_sundevallii": [
+    "assets/SouthAfricaAltPhotos/Elapsoidea_sundevallii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Elapsoidea_sundevallii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Elapsoidea_sundevallii_alt3.jpg"
+  ],
+  "gracililima_nyassae": [
+    "assets/SouthAfricaAltPhotos/Gracililima_nyassae_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Gracililima_nyassae_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Gracililima_nyassae_alt3.jpg"
+  ],
+  "hemachatus_haemachatus": [
+    "assets/SouthAfricaAltPhotos/Hemachatus_haemachatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Hemachatus_haemachatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Hemachatus_haemachatus_alt3.jpg"
+  ],
+  "hemirhagerrhis_nototaenia": [
+    "assets/SouthAfricaAltPhotos/Hemirhagerrhis_nototaenia_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Hemirhagerrhis_nototaenia_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Hemirhagerrhis_nototaenia_alt3.jpg"
+  ],
+  "homoroselaps_dorsalis": [
+    "assets/SouthAfricaAltPhotos/Homoroselaps_dorsalis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Homoroselaps_dorsalis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Homoroselaps_dorsalis_alt3.jpg"
+  ],
+  "homoroselaps_lacteus": [
+    "assets/SouthAfricaAltPhotos/Homoroselaps_lacteus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Homoroselaps_lacteus_alt3.jpg",
+    "assets/SouthAfricaAltPhotos/Homoroselaps_lacteus_alt3.jpg"
+  ],
+  "hydrophis_platurus": [
+    "assets/SouthAfricaAltPhotos/Hydrophis_platurus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Hydrophis_platurus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Hydrophis_platurus_alt3.jpg"
+  ],
+  "indotyphlops_braminus": [
+    "assets/SouthAfricaAltPhotos/Indotyphlops_braminus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Indotyphlops_braminus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Indotyphlops_braminus_alt3.jpg"
+  ],
+  "inyoka_swazicus": [
+    "assets/SouthAfricaAltPhotos/Inyoka_swazicus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Inyoka_swazicus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Inyoka_swazicus_alt3.jpg"
+  ],
+  "lamprophis_aurora": [
+    "assets/SouthAfricaAltPhotos/Lamprophis_aurora_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lamprophis_aurora_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lamprophis_aurora_alt3.jpg"
+  ],
+  "lamprophis_fiskii": [
+    "assets/SouthAfricaAltPhotos/Lamprophis_fiskii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lamprophis_fiskii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lamprophis_fiskii_alt3.jpg"
+  ],
+  "lamprophis_fuscus": [
+    "assets/SouthAfricaAltPhotos/Lamprophis_fuscus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lamprophis_fuscus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lamprophis_fuscus_alt3.jpg"
+  ],
+  "leptotyphlops_distanti": [
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_distanti_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_distanti_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_distanti_alt3.jpg"
+  ],
+  "leptotyphlops_incognitus": [
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_incognitus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_incognitus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_incognitus_alt3.jpg"
+  ],
+  "leptotyphlops_jacobseni": [
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_jacobseni_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_jacobseni_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_jacobseni_alt3.jpg"
+  ],
+  "leptotyphlops_conjunctus": [
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_conjunctus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_conjunctus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_conjunctus_alt3.jpg"
+  ],
+  "leptotyphlops_nigricans": [
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_nigricans_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_nigricans_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_nigricans_alt3.jpg"
+  ],
+  "leptotyphlops_scutifrons": [
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_scutifrons_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_scutifrons_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_scutifrons_alt3.jpg"
+  ],
+  "leptotyphlops_sylvicolus": [
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_sylvicolus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_sylvicolus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Leptotyphlops_sylvicolus_alt3.jpg"
+  ],
+  "limaformosa_capensis": [
+    "assets/SouthAfricaAltPhotos/Limaformosa_capensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Limaformosa_capensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Limaformosa_capensis_alt3.jpg"
+  ],
+  "elaiophis_inornatus": [
+    "assets/SouthAfricaAltPhotos/Elaiophis_inornatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Elaiophis_inornatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Elaiophis_inornatus_alt3.jpg"
+  ],
+  "lycodonomorphus_laevissimus": [
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_laevissimus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_laevissimus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_laevissimus_alt3.jpg"
+  ],
+  "lycodonomorphus_obscuriventris": [
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_obscuriventris_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_obscuriventris_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_obscuriventris_alt3.jpg"
+  ],
+  "lycodonomorphus_rufulus": [
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_rufulus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_rufulus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_rufulus_alt3.jpg"
+  ],
+  "lycodonomorphus_whytii": [
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_whytii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lycodonomorphus_whytii_alt2.jpg"
+  ],
+  "lycophidion_capense": [
+    "assets/SouthAfricaAltPhotos/Lycophidion_capense_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lycophidion_capense_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lycophidion_capense_alt3.jpg"
+  ],
+  "lycophidion_pygmaeum": [
+    "assets/SouthAfricaAltPhotos/Lycophidion_pygmaeum_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lycophidion_pygmaeum_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lycophidion_pygmaeum_alt3.jpg"
+  ],
+  "lycophidion_variegatum": [
+    "assets/SouthAfricaAltPhotos/Lycophidion_variegatum_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Lycophidion_variegatum_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Lycophidion_variegatum_alt3.jpg"
+  ],
+  "macrelaps_microlepidotus": [
+    "assets/SouthAfricaAltPhotos/Macrelaps_microlepidotus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Macrelaps_microlepidotus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Macrelaps_microlepidotus_alt3.jpg"
+  ],
+  "meizodon_semiornatus": [
+    "assets/SouthAfricaAltPhotos/Meizodon_semiornatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Meizodon_semiornatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Meizodon_semiornatus_alt3.jpg"
+  ],
+  "montaspis_gilvomaculata": [
+    "assets/SouthAfricaAltPhotos/Montaspis_gilvomaculata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Meizodon_semiornatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Meizodon_semiornatus_alt3.jpg"
+  ],
+  "myriopholis_longicauda": [
+    "assets/SouthAfricaAltPhotos/Myriopholis_longicauda_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Myriopholis_longicauda_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Myriopholis_longicauda_alt3.jpg"
+  ],
+  "naja_annulifera": [
+    "assets/SouthAfricaAltPhotos/Naja_annulifera_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_annulifera_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_annulifera_alt3.jpg"
+  ],
+  "naja_mossambica": [
+    "assets/SouthAfricaAltPhotos/Naja_mossambica_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_mossambica_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_mossambica_alt3.jpg"
+  ],
+  "naja_nigricincta": [
+    "assets/SouthAfricaAltPhotos/Naja_nigricincta_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_nigricincta_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_nigricincta_alt3.jpg"
+  ],
+  "naja_nivea": [
+    "assets/SouthAfricaAltPhotos/Naja_nivea_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_nivea_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_nivea_alt3.jpg"
+  ],
+  "naja_subfulva": [
+    "assets/SouthAfricaAltPhotos/Naja_subfulva_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_subfulva_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Naja_subfulva_alt3.jpg"
+  ],
+  "namibiana_gracilior": [
+    "assets/SouthAfricaAltPhotos/Namibiana_gracilior_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Namibiana_gracilior_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Namibiana_gracilior_alt2.jpg"
+  ],
+  "namibiana_occidentalis": [
+    "assets/SouthAfricaAltPhotos/Namibiana_occidentalis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Namibiana_occidentalis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Namibiana_occidentalis_alt3.jpg"
+  ],
+  "natriciteres_olivacea": [
+    "assets/SouthAfricaAltPhotos/Natriciteres_olivacea_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Natriciteres_olivacea_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Natriciteres_olivacea_alt3.jpg"
+  ],
+  "philothamnus_hoplogaster": [
+    "assets/SouthAfricaAltPhotos/Philothamnus_hoplogaster_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_hoplogaster_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_hoplogaster_alt3.jpg"
+  ],
+  "philothamnus_natalensis": [
+    "assets/SouthAfricaAltPhotos/Philothamnus_natalensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_natalensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_natalensis_alt3.jpg"
+  ],
+  "philothamnus_occidentalis": [
+    "assets/SouthAfricaAltPhotos/Philothamnus_occidentalis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_occidentalis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_occidentalis_alt3.jpg"
+  ],
+  "philothamnus_semivariegatus": [
+    "assets/SouthAfricaAltPhotos/Philothamnus_semivariegatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_semivariegatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Philothamnus_semivariegatus_alt3.jpg"
+  ],
+  "prosymna_ambigua": [
+    "assets/SouthAfricaAltPhotos/Prosymna_ambigua_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_ambigua_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_ambigua_alt3.jpg"
+  ],
+  "prosymna_bivittata": [
+    "assets/SouthAfricaAltPhotos/Prosymna_bivittata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_bivittata_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_bivittata_alt3.jpg"
+  ],
+  "prosymna_frontalis": [
+    "assets/SouthAfricaAltPhotos/Prosymna_frontalis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_frontalis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_frontalis_alt3.jpg"
+  ],
+  "prosymna_janii": [
+    "assets/SouthAfricaAltPhotos/Prosymna_janii_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_janii_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_janii_alt3.jpg"
+  ],
+  "prosymna_lineata": [
+    "assets/SouthAfricaAltPhotos/Prosymna_lineata_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_lineata_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_lineata_alt3.jpg"
+  ],
+  "prosymna_stuhlmanni": [
+    "assets/SouthAfricaAltPhotos/Prosymna_stuhlmanni_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_stuhlmanni_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_stuhlmanni_alt3.jpg"
+  ],
+  "prosymna_sundevalli": [
+    "assets/SouthAfricaAltPhotos/Prosymna_sundevalli_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_sundevalli_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Prosymna_sundevalli_alt3.jpg"
+  ],
+  "psammophis_angolensis": [
+    "assets/SouthAfricaAltPhotos/Psammophis_angolensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_angolensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_angolensis_alt3.jpg"
+  ],
+  "psammophis_brevirostris": [
+    "assets/SouthAfricaAltPhotos/Psammophis_brevirostris_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_brevirostris_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_brevirostris_alt3.jpg"
+  ],
+  "psammophis_crucifer": [
+    "assets/SouthAfricaAltPhotos/Psammophis_crucifer_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_crucifer_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_crucifer_alt3.jpg"
+  ],
+  "psammophis_jallae": [
+    "assets/SouthAfricaAltPhotos/Psammophis_jallae_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_jallae_alt2.jpg"
+  ],
+  "psammophis_leightoni": [
+    "assets/SouthAfricaAltPhotos/Psammophis_leightoni_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_leightoni_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_leightoni_alt3.jpg"
+  ],
+  "psammophis_mossambicus": [
+    "assets/SouthAfricaAltPhotos/Psammophis_mossambicus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_mossambicus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_mossambicus_alt3.jpg"
+  ],
+  "psammophis_notostictus": [
+    "assets/SouthAfricaAltPhotos/Psammophis_notostictus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_notostictus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_notostictus_alt3.jpg"
+  ],
+  "psammophis_subtaeniatus": [
+    "assets/SouthAfricaAltPhotos/Psammophis_subtaeniatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_subtaeniatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_subtaeniatus_alt3.jpg"
+  ],
+  "psammophis_trigrammus": [
+    "assets/SouthAfricaAltPhotos/Psammophis_trigrammus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_trigrammus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophis_trigrammus_alt3.jpg"
+  ],
+  "psammophylax_rhombeatus": [
+    "assets/SouthAfricaAltPhotos/Psammophylax_rhombeatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophylax_rhombeatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophylax_rhombeatus_alt3.jpg"
+  ],
+  "psammophylax_tritaeniatus": [
+    "assets/SouthAfricaAltPhotos/Psammophylax_tritaeniatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophylax_tritaeniatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Psammophylax_tritaeniatus_alt3.jpg"
+  ],
+  "pseudaspis_cana": [
+    "assets/SouthAfricaAltPhotos/Pseudaspis_cana_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Pseudaspis_cana_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Pseudaspis_cana_alt3.jpg"
+  ],
+  "python_natalensis": [
+    "assets/SouthAfricaAltPhotos/Python_natalensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Python_natalensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Python_natalensis_alt3.jpg"
+  ],  
+  "rhamphiophis_rostratus": [
+    "assets/SouthAfricaAltPhotos/Rhamphiophis_rostratus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Rhamphiophis_rostratus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Rhamphiophis_rostratus_alt3.jpg"
+  ],
+  "rhinotyphlops_lalandei": [
+    "assets/SouthAfricaAltPhotos/Rhinotyphlops_lalandei_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Rhinotyphlops_lalandei_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Rhinotyphlops_lalandei_alt3.jpg"
+  ],
+  "rhinotyphlops_schinzi": [
+    "assets/SouthAfricaAltPhotos/Rhinotyphlops_schinzi_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Rhinotyphlops_schinzi_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Rhinotyphlops_schinzi_alt3.jpg"
+  ],
+  "telescopus_beetzi": [
+    "assets/SouthAfricaAltPhotos/Telescopus_beetzi_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Telescopus_beetzi_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Telescopus_beetzi_alt3.jpg"
+  ],
+  "telescopus_semiannulatus": [
+    "assets/SouthAfricaAltPhotos/Telescopus_semiannulatus_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Telescopus_semiannulatus_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Telescopus_semiannulatus_alt3.jpg"
+  ],
+  "thelotornis_capensis": [
+    "assets/SouthAfricaAltPhotos/Thelotornis_capensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Thelotornis_capensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Thelotornis_capensis_alt3.jpg"
+  ],
+  "xenocalamus_bicolor": [
+    "assets/SouthAfricaAltPhotos/Xenocalamus_bicolor_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Xenocalamus_bicolor_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Xenocalamus_bicolor_alt3.jpg"
+  ],
+  "xenocalamus_transvaalensis": [
+    "assets/SouthAfricaAltPhotos/Xenocalamus_transvaalensis_alt1.jpg",
+    "assets/SouthAfricaAltPhotos/Xenocalamus_transvaalensis_alt2.jpg",
+    "assets/SouthAfricaAltPhotos/Xenocalamus_transvaalensis_alt3.jpg"
+  ]
+}
